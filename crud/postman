@@ -1,0 +1,14 @@
+metodo post - postman (Criar)
+
+{
+  "nome": "Maria",
+  "email": "maria@email.com"
+}
+
+
+metodo put - postman (Editar)
+
+{
+  "nome": "Maria Eduarda",
+  "email": "mariaeduarda@email.com"
+}
